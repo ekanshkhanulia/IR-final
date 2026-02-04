@@ -1,8 +1,8 @@
 # Cross-Encoder IR Pipeline
 
 <p align="center">
-  <img src="assets/Screenshot%20(562).png" width="48%" />
-  <img src="assets/Screenshot%20(563).png" width="48%" />
+  <img src="assets/Screenshot%20(562).png" width="40%" />
+  <img src="assets/Screenshot%20(563).png" width="40%" />
 </p>
 
 This repository contains notebooks and report artifacts for a project on
